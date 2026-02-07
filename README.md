@@ -1,7 +1,7 @@
 ![🚀 On a Journey from Student to Engineer](https://scontent.fdac41-1.fna.fbcdn.net/v/t39.30808-6/627751879_2148383215933265_3761456513381990242_n.jpg?stp=cp6_dst-jpg_tt6&_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_ohc=bF5tEjpzYo0Q7kNvwF6ovyZ&_nc_oc=AdkiiKqvz8IapgZvssdzCQjLeY6DAUOUpELso6yST3Bo722eumLeNPs3NPpBHlaHiss&_nc_zt=23&_nc_ht=scontent.fdac41-1.fna&_nc_gid=MG0uTk5NJk4QnHe3OFX1hg&oh=00_AftPcBSW8NT4wnt6abAsjFDPZqRKyAwBfv74NIg8xOi4DA&oe=698D74B7)
 
-## Hi there 👋,  I'm Misbahun Humaira Akhi
-### 🚀 On a Journey from Student to Engineer
+### Hi there 👋,  I'm Misbahun Humaira Akhi
+#### 🚀 On a Journey from Student to Engineer
 
 🎓 CSE student at AIUB | Exploring AI, Software Engineering | Learning one project at a time.
 
