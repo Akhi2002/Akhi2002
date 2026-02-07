@@ -3,7 +3,7 @@
 ### Hi there 👋,  I'm Misbahun Humaira Akhi
 #### 🚀 On a Journey from Student to Engineer
 
-🎓 CSE student at AIUB | Exploring AI, Web Dev & Software Engineering | Learning one project at a time.
+🎓 CSE student at AIUB | Exploring AI, Software Engineering | Learning one project at a time.
 
 Skills: C++ / JAVA / C# / SQL
 
